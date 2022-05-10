@@ -5,6 +5,7 @@ Main block have a few sections:
   - about,
   - gallery,
   - testimonials.
+
 All photos on the page increase on hover.
 Also the landing have feedback form.
 
